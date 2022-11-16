@@ -1,0 +1,3 @@
+﻿  Lab_06_3(it).cpp
+C:\Users\Acer\source\repos\AP_Lab_06_3(it)\AP_Lab_06_3(it)\Lab_06_3(it).cpp(97,1): error C2084:  function 'int main(void)' already has a body
+C:\Users\Acer\source\repos\AP_Lab_06_3(it)\AP_Lab_06_3(it)\Lab_06_3(it).cpp(40): message :  see previous definition of 'main'
